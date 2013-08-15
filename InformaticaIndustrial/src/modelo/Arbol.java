@@ -18,10 +18,7 @@ public class Arbol {
 	int i,j=0;
 	ArrayList<Nodo> padresPrincipales = new ArrayList<>();
 
-	//desde wor
-
-	//desde or
-
+	//|||||||||||||||
 	public Arbol(){
 
 //Obtener descripcion de Articulos
