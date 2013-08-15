@@ -17,7 +17,7 @@ public class Arbol {
 	String[][] desc = new String[100][100];
 	int i,j=0;
 	ArrayList<Nodo> padresPrincipales = new ArrayList<>();
-	
+	//desde wo
 	public Arbol(){
 
 //Obtener descripcion de Articulos
