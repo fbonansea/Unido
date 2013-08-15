@@ -19,6 +19,7 @@ public class Arbol {
 	ArrayList<Nodo> padresPrincipales = new ArrayList<>();
 	
 //	---------
+	
 	public Arbol(){
 
 //Obtener descripcion de Articulos
